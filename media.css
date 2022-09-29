@@ -1,0 +1,760 @@
+@media (max-width:1025px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    #arrow a{
+        left:19em;
+        top:25em;
+        position: fixed;
+
+    }
+    #mahdi{
+        width: 240px;
+        top: 25%;
+        left: 45%;
+        margin-top: -100px;
+        margin-left: -200px;
+    }
+    h1{
+        top: 40%;
+        left: 62%;
+        margin-top: -290px;
+        margin-left: -110px;
+        font-size: 4em;
+    }
+    h3{
+        top: 46%;
+        left: 62%;
+        margin-top: -290px;
+        margin-left: -110px;
+    }
+    h6{
+        top: 35%;
+        left: 71%;
+    }
+    .fa{
+    font-size:3.5em;
+    left: 38%;
+    margin-top: -420px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        left: 71%;
+        top: 44%;
+    }
+    .tow_a a{
+        border-radius: 20px;}
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .aboutme{
+        height:80em;
+        margin-top: 700px;
+        padding:50px 50px 25px 25px;
+        word-spacing: 5px;
+        font-size: 1.3em;
+    }
+    #caption{
+        margin-bottom:50px;
+    }
+    .cert img{
+        width: 25%;
+        margin-left: 33px;
+    }
+    .courstitle a{
+        margin-top: 10px;
+        margin-left: 220px;
+        bottom: 110px;
+        font-size: 1.3em;
+    }
+    .courstitle p{
+
+        margin-left: 220px;
+        bottom: 110px;
+        padding-top:15px;
+        font-size: 1em;
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+        padding:1.3em;
+    }
+    .footer-title{
+        font-size:1.5em;
+    }
+    .social-icons a{
+        font-size: 1.5em;
+        padding:10px;
+    }
+    .whatsapp{
+    font-size: 2em;
+    }
+    .email{
+        font-size: 2em;
+    }
+}
+@media (max-width:820px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    #arrow a{
+        left:14.5em;
+        top:19em;
+        position: fixed;
+
+    }
+    #mahdi{
+        width: 200px;
+        top: 25%;
+        left: 45%;
+        margin-top: -100px;
+        margin-left: -200px;
+    }
+    h1{
+        top: 43%;
+        left: 60%;
+        margin-top: -290px;
+        margin-left: -110px;
+        font-size: 3em;
+    }
+    h3{
+        top: 48%;
+        left: 60%;
+        margin-top: -290px;
+        margin-left: -110px;
+    }
+    h6{
+        top: 34%;
+        left: 71%;
+    }
+    .fa{
+    font-size:2.1em;
+    left: 38%;
+    margin-top: -350px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        left: 71%;
+        top: 44%;
+    }
+    .tow_a a{border-radius: 20px;}
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .aboutme{
+        height:80em;
+        margin-top: 515px;
+        padding:50px 50px 25px 25px;
+        word-spacing: 5px;
+        font-size: 1.1em;
+    }
+    #caption{
+        margin-bottom:50px;
+    }
+    .cert img{
+        width: 25%;
+        margin-left: 33px;
+    }
+    .courstitle a{
+        margin-top: 20px;
+        margin-left: 180px;
+        bottom: 110px;
+        font-size: 1.1em;
+    }
+    .courstitle p{
+
+        margin-left: 180px;
+        bottom: 110px;
+        padding-top:15px;
+        font-size: 0.8em;
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+        padding:1.3em;
+    }
+    .footer-title{
+        font-size:1.2em;
+    }
+    .social-icons a{
+        font-size: 1.1em;
+        padding:10px;
+    }
+}
+@media (max-width:810px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    #arrow a{
+        left:14.5em;
+        top:24em;
+        position: fixed;
+
+    }
+    #mahdi{
+        width: 200px;
+        top: 25%;
+        left: 45%;
+        margin-top: -100px;
+        margin-left: -200px;
+    }
+    h1{
+        top: 41%;
+        left: 61%;
+        margin-top: -290px;
+        margin-left: -110px;
+        font-size: 3em;
+    }
+    h3{
+        top: 46%;
+        left: 61%;
+        margin-top: -290px;
+        margin-left: -110px;
+    }
+    h6{
+        top: 34%;
+        left: 72%;
+    }
+    .fa{
+    font-size:2.7em;
+    left: 38%;
+    margin-top: -410px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        left: 71%;
+        top: 43%;
+    }
+    .tow_a a{border-radius: 20px;}
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .aboutme{
+        height:80em;
+        margin-top: 515px;
+        padding:50px 50px 25px 25px;
+        word-spacing: 5px;
+        font-size: 1.1em;
+    }
+    #caption{
+        margin-bottom:50px;
+    }
+    .cert img{
+        width: 25%;
+        margin-left: 33px;
+    }
+    .courstitle a{
+        margin-top: 20px;
+        margin-left: 180px;
+        bottom: 110px;
+        font-size: 1.1em;
+    }
+    .courstitle p{
+
+        margin-left: 180px;
+        bottom: 110px;
+        padding-top:15px;
+        font-size: 0.8em;
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+        padding:1.3em;
+    }
+    .footer-title{
+        font-size:1.2em;
+    }
+    .social-icons a{
+        font-size: 1.1em;
+        padding:10px;
+    }
+}
+@media (max-width:430px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+    }
+    #arrow a{
+        visibility: hidden;
+    }
+    #mahdi{
+        width: 150px;
+        top: 25%;
+        left: 79%;
+    }
+    h1{
+        visibility: hidden;
+    }
+    h3{
+        top: 65%;
+        left: 53%;
+
+    }
+    h6{
+        font-size: 1em;
+        top: 48%;
+        left: 63%;
+    }
+    .fa{
+    font-size:2em;
+    left: 68%;
+    margin-top: -320px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        
+        left: 71%;
+        top: 60%;
+    }
+    .tow_a a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+        border-radius: 20px;
+        font-size: 1.2em;
+        margin-left:20px;
+    }
+    .aboutme{
+        height:60em;
+        width:100%;
+        left: 0;
+        word-spacing: 2px;
+        font-size: 1.1em;
+    }
+    #caption{
+        margin-bottom:30px;
+    }
+    .cert img{
+        width: 35%;
+        margin-left: 20px;
+    }
+    .courstitle a{
+        margin-top: 10px;
+        margin-left: 150px;
+        bottom: 100px;
+        font-size: 0.9em;
+    }
+    .courstitle p{
+        margin-left: 150px;
+        padding-top:15px;
+        font-size: 0.8em;
+    }
+    .cert{
+        margin-top: 100px;
+    }
+    .cert img{
+        margin-top:-80px;
+    }
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+    }
+    .email{
+        margin-top:25px;
+        margin-bottom:100px;
+        font-size: 1.4em;
+    }
+    .whatsapp{
+        font-size: 1.4em;
+
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+
+    }
+    .footer-title{
+        font-size:1em;
+    }
+    .social-icons a{
+        padding: 0;
+        font-size:0.9em;
+    }
+}
+@media (max-width:415px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+    }
+    #arrow a{
+        visibility: hidden;
+    }
+    #mahdi{
+        width: 150px;
+        top: 25%;
+        left: 79%;
+    }
+    h1{
+        visibility: hidden;
+    }
+    h3{
+        top: 65%;
+        left: 53%;
+
+    }
+    h6{
+        font-size: 1em;
+        top: 48%;
+        left: 63%;
+    }
+    .fa{
+    font-size:2em;
+    left: 68%;
+    margin-top: -320px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        
+        left: 71%;
+        top: 60%;
+    }
+    .tow_a a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+        border-radius: 20px;
+        font-size: 1.2em;
+        margin-left:20px;
+    }
+    .aboutme{
+        height:60em;
+        width:100%;
+        left: 0;
+        word-spacing: 2px;
+        font-size: 1.1em;
+    }
+    #caption{
+        margin-bottom:30px;
+    }
+    .cert img{
+        width: 35%;
+        margin-left: 20px;
+    }
+    .courstitle a{
+        margin-top: 10px;
+        margin-left: 150px;
+        bottom: 100px;
+        font-size: 0.9em;
+    }
+    .courstitle p{
+        margin-left: 150px;
+        padding-top:15px;
+        font-size: 0.8em;
+    }
+    .cert{
+        margin-top: 100px;
+    }
+    .cert img{
+        margin-top:-80px;
+    }
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+    }
+    .email{
+        margin-top:25px;
+        margin-bottom:100px;
+        font-size: 1.4em;
+    }
+    .whatsapp{
+        font-size: 1.4em;
+
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+
+    }
+    .footer-title{
+        font-size:1em;
+    }
+    .social-icons a{
+        padding: 0;
+        font-size:0.9em;
+    }
+}
+@media (max-width:400px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+        font-size: 16px;
+    }
+    #arrow a{
+        visibility: hidden;
+    }
+    #mahdi{
+        width: 150px;
+        top: 25%;
+        left: 79%;
+    }
+    h1{
+        visibility: hidden;
+    }
+    h3{
+        top: 68%;
+        left: 53%;
+
+    }
+    h6{
+        font-size: 1em;
+        top: 50%;
+        left: 63%;
+    }
+    .fa{
+    font-size:2em;
+    left: 68%;
+    margin-top: -298px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        
+        left: 71%;
+        top: 62%;
+    }
+    .tow_a a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+        border-radius: 20px;
+        font-size: 1.2em;
+        margin-left:20px;
+    }
+    .aboutme{
+        height:60em;
+        width:100%;
+        left: 0;
+        word-spacing: 2px;
+        font-size: 1.1em;
+    }
+    #caption{
+        margin-bottom:30px;
+    }
+    .cert img{
+        width: 35%;
+        margin-left: 20px;
+    }
+    .courstitle a{
+        margin-top: 10px;
+        margin-left: 150px;
+        bottom: 100px;
+        font-size: 0.9em;
+    }
+    .courstitle p{
+        margin-left: 150px;
+        padding-top:15px;
+        font-size: 0.8em;
+    }
+    .cert{
+        margin-top: 100px;
+    }
+    .cert img{
+        margin-top:-80px;
+    }
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+    }
+    .email{
+        margin-top:25px;
+        margin-bottom:100px;
+        font-size: 1.4em;
+    }
+    .whatsapp{
+        font-size: 1.4em;
+
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+
+    }
+    .footer-title{
+        font-size:1em;
+    }
+    .social-icons a{
+        padding: 0;
+        font-size:0.9em;
+    }
+}
+
+@media (max-width:360px){
+    nav a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 15px;
+        margin:20px 15px 20px 15px;
+    }
+    #arrow a{
+        visibility: hidden;
+    }
+    #mahdi{
+        width: 150px;
+        top: 25%;
+        left: 85%;
+    }
+    h1{
+        visibility: hidden;
+    }
+    h3{
+        top: 73%;
+        left: 55%;
+
+    }
+    h6{
+        font-size: 1em;
+        top: 53%;
+        left: 63%;
+    }
+    .fa{
+    font-size:1.8em;
+    left: 75%;
+    margin-top: -270px;
+    }
+    .fa-facebook-square{
+        top: 48%;
+    
+    }
+    .fa-instagram{
+        top: 55%;
+    }
+    
+    .fa-linkedin-square{
+        top: 62%;
+    }
+    .tow_a{
+        
+        left: 71%;
+        top: 66%;
+    }
+    .tow_a a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+
+        border-radius: 20px;
+        font-size: 1.2em;
+        margin-left:20px;
+    }
+    .aboutme{
+        height:62em;
+        width:100%;
+        left: 0;
+        word-spacing: 2px;
+        font-size: 1.1em;
+    }
+    #caption{
+        margin-bottom:30px;
+    }
+    .cert img{
+        width: 35%;
+        margin-left: 20px;
+    }
+    .courstitle a{
+        margin-top: 10px;
+        margin-left: 150px;
+        bottom: 80px;
+        font-size: 0.8em;
+    }
+    .courstitle p{
+        margin-top: 15px;
+        margin-left: 150px;
+        padding-top:15px;
+        font-size: 0.7em;
+    }
+    .cert{
+        margin-top: 100px;
+    }
+    .cert img{
+        margin-top:-80px;
+    }
+    #contactme{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+    }
+    .email{
+        margin-top:25px;
+        margin-bottom:100px;
+        font-size: 1.2em;
+    }
+    .whatsapp{
+        font-size: 1.2em;
+    }
+    .whatsapp:hover{
+        background-color:#333333;
+        width:100%;
+        color:#00ff00;
+        font-size: 1.3em;
+    }
+    .email:hover{
+        background-color:#333333;
+        width:100%;
+        color:#00ff00;
+        font-size: 1.3em;
+    }
+    .footer{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-top:30px;
+        font-size:0.8em;
+    }
+    .footer-title{
+        font-size:1em;
+    }
+    .social-icons a{
+        padding: 0;
+        font-size:0.9em;
+    }
+}
